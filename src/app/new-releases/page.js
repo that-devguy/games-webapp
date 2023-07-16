@@ -1,7 +1,7 @@
-export default function Home() {
+export default function NewReleases() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div>Home Page</div>
+      <div>New Releases</div>
     </main>
   );
 }
